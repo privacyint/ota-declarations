@@ -4,8 +4,8 @@
       "versions": {
         "storage": {
           "git": {
-            "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/demo-snapshots/commit/%SNAPSHOT_ID",
-            "repository": "git@github.com:OpenTermsArchive/demo-versions.git",
+            "snapshotIdentiferTemplate": "https://github.com/privacyint/ota-snapshots/commit/%SNAPSHOT_ID",
+            "repository": "git@github.com:privacyint/ota-versions.git",
             "path": "./data/versions"
           }
         }
@@ -13,7 +13,7 @@
       "snapshots": {
         "storage": {
           "git": {
-            "repository": "git@github.com:OpenTermsArchive/demo-snapshots.git",
+            "repository": "git@github.com:privacyint/ota-snapshots.git",
             "path": "./data/snapshots"
           }
         }
@@ -31,15 +31,15 @@
     "reporter": {
       "githubIssues": {
         "repositories": {
-          "declarations": "OpenTermsArchive/demo-declarations",
-          "versions": "OpenTermsArchive/demo-versions",
-          "snapshots": "OpenTermsArchive/demo-snapshots"
+          "declarations": "privacyint/ota-declarations",
+          "versions": "privacyint/ota-versions",
+          "snapshots": "privacyint/ota-snapshots"
         }
       }
     },
     "dataset": {
-      "title": "demo",
-      "versionsRepositoryURL": "https://github.com/OpenTermsArchive/demo-versions"
+      "title": "PrivacyInternational",
+      "versionsRepositoryURL": "https://github.com/privacyint/ota-versions"
     },
     "collection-api": {
       "port": 3000,
