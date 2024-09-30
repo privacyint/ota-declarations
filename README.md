@@ -1,16 +1,17 @@
-# Declarations of terms tracked in the *ota* collection
+# Declarations of terms tracked in the Privacy International collection
 
-The terms in this collection are declared by _ _ _ _ _ ✍️ and tracked using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are declared by Privacy International and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
-You can [explore the tracked versions](https://github.com/privacyint/ota-versions) interactively or [download them as a dataset](https://github.com/privacyint/ota-versions/releases) in the `privacyint/ota-versions` repository.
+You can [explore the tracked versions](https://github.com/privacyint/ota-versions) interactively or [download them as a dataset](https://github.com/privacyint/ota-versions/releases) in the `OpenTermsArchive/demo-versions` repository.
+
 
 ## Scope
 
 The terms you will find in this collection match the following scope:
 
-- **Topic:** _ _ _ _ _ ✍️
-- **Jurisdictions:** _ _ _ _ _ ✍️
-- **Languages:** _ _ _ _ _ ✍️
+- **Topic:** <!-- customize to your context -->TBD<!-- until here -->
+- **Jurisdictions:** <!-- customize to your context -->TBD<!-- until here -->
+- **Languages:** <!-- customize to your context -->TBD<!-- until here -->
 
 - - -
 
