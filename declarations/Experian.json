@@ -1,0 +1,9 @@
+{
+  "name": "Experian",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.experian.co.uk/consumer/privacy.html",
+      "select": ".privacy-list"
+    }
+  }
+}

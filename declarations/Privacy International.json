@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://privacyinternational.org/basic-page/618/how-we-use-and-protect-your-data#organisational",
-      "select": ".layout-content"
+      "select": "#main-content"
     }
   }
 }
