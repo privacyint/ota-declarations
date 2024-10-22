@@ -4,6 +4,7 @@ The terms in this collection are declared by Privacy International and tracked u
 
 You can [explore the tracked versions](https://github.com/privacyint/ota-versions) interactively or [download them as a dataset](https://github.com/privacyint/ota-versions/releases) in the `OpenTermsArchive/demo-versions` repository.
 
+
 ## Scope
 
 The terms you will find in this collection match the following scope:
