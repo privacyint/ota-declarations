@@ -1,0 +1,9 @@
+{
+  "name": "Clearview",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.clearview.ai/privacy-policy",
+      "select": "#comp-kolq5isc"
+    }
+  }
+}

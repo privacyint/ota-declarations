@@ -1,0 +1,9 @@
+{
+  "name": "Axciom UK",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.acxiom.co.uk/privacy/uk-privacy-policy/",
+      "select": ".main-content"
+    }
+  }
+}
