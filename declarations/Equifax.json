@@ -1,0 +1,13 @@
+{
+  "name": "Equifax UK",
+  "documents": {
+    "Equifax Credit Reference and Related Services Privacy Notice": {
+      "fetch": "https://www.equifax.co.uk/privacy-hub/ein",
+      "select": "main"
+    },
+    "EMyEquifax and Website Privacy Notice": {
+      "fetch": "https://www.equifax.co.uk/privacy-hub/privacy-notice",
+      "select": "main"
+    }
+  }
+}

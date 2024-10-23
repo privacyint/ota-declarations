@@ -1,0 +1,14 @@
+{
+  "name": "Quantcast",
+  "documents": {
+    "Privacy Choices": {
+      "fetch": "https://www.quantcast.com/privacy-choices/",
+      "select": "#table-of-contents",
+      "remove": "#table-index"
+    },
+    "Privacy Policy": {
+      "fetch": "https://legal.quantcast.com/#products-and-services-privacy-policy",
+      "select": "#contract-body"
+    }
+  }
+}

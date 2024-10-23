@@ -1,0 +1,15 @@
+{
+  "name": "OpenAI",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://openai.com/policies/eu-privacy-policy/",
+      "select": [
+        "main"
+      ],
+      "remove": [
+        "select[name=\"Locale Select\"]"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}

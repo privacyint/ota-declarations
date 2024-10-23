@@ -1,0 +1,9 @@
+{
+  "name": "Criteo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.criteo.com/privacy/",
+      "select": "#basic-page-content"
+    }
+  }
+}
