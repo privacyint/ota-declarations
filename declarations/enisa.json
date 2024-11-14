@@ -1,0 +1,9 @@
+{
+  "name": "ENISA",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.enisa.europa.eu/about-enisa/data-protection",
+      "select": ".content"
+    }
+  }
+}
