@@ -1,0 +1,9 @@
+{
+  "name": "Hinge",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://hinge.co/privacy",
+      "select": "#content"
+    }
+  }
+}
