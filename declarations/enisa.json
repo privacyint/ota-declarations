@@ -1,7 +1,7 @@
 {
   "name": "ENISA",
   "documents": {
-    "Data Protection Statement": {
+    "Privacy Policy": {
       "fetch": "https://www.enisa.europa.eu/about-enisa/data-protection",
       "select": ".content"
     }
