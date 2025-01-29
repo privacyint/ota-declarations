@@ -2,7 +2,7 @@
   "name": "Oracle",
   "documents": {
     "Privacy Policy": {
-      "combine":[
+      "combine": [
         {
           "fetch": "https://www.oracle.com/uk/legal/privacy/privacy-policy/",
           "select": [

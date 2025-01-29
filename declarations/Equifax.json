@@ -2,7 +2,7 @@
   "name": "Equifax UK",
   "documents": {
     "Privacy Policy": {
-      "combine":[
+      "combine": [
         {
           "fetch": "https://www.equifax.co.uk/privacy-hub/ein",
           "select": "main"

@@ -2,7 +2,7 @@
   "name": "Quantcast",
   "documents": {
     "Privacy Policy": {
-      "combine":[
+      "combine": [
         {
           "fetch": "https://legal.quantcast.com/#products-and-services-privacy-policy",
           "select": "#contract-body"
