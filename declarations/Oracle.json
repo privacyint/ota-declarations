@@ -1,0 +1,59 @@
+{
+  "name": "Oracle",
+  "documents": {
+    "General Privacy Policy": {
+      "fetch": "https://www.oracle.com/uk/legal/privacy/privacy-policy/",
+      "select": [
+        {
+          "startAfter": "#maincontent",
+          "endBefore": "footer"
+        }
+      ]
+    },
+    " Services Privacy Policy": {
+      "fetch": "https://www.oracle.com/uk/legal/privacy/services-privacy-policy/",
+      "select": [
+        {
+          "startAfter": "#maincontent",
+          "endBefore": "footer"
+        }
+      ]
+    },
+    "Customer Data Research and Development Privacy Policy": {
+      "fetch": "https://www.oracle.com/uk/legal/privacy/customer-data-research-development-privacy-policy/",
+      "select": [
+        {
+          "startAfter": "#maincontent",
+          "endBefore": "footer"
+        }
+      ]
+    },
+    "Advertising Privacy Policy": {
+      "fetch": "https://www.oracle.com/legal/privacy/advertising-privacy-policy/",
+      "select": [
+        {
+          "startAfter": "#maincontent",
+          "endBefore": "footer"
+        }
+      ]
+    },
+    "Dyn Privacy Policy": {
+      "fetch": "https://www.oracle.com/uk/legal/privacy/dyn-privacy-policy/",
+      "select": [
+        {
+          "startAfter": "#maincontent",
+          "endBefore": "footer"
+        }
+      ]
+    },
+    "Life Sciences Healthcare Research Privacy Policy": {
+      "fetch": "https://www.oracle.com/uk/legal/privacy/life-sciences-healthcare-research-privacy-policy/",
+      "select": [
+        {
+          "startAfter": "#maincontent",
+          "endBefore": "footer"
+        }
+      ]
+    }
+  }
+}

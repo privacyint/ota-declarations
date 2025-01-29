@@ -7,6 +7,10 @@ module.exports = {
       max_restarts: 2,
       min_uptime: '1h', // Set a relatively high duration (more than the longest run) so that restarts that occur before this duration has elapsed are considered unstable.
       restart_delay: 3 * 60 * 60 * 1000,  // likely related to a connectivity problem that will take some time to be fixed
+<<<<<<< HEAD
+=======
+      log_date_format: "YYYY-MM-DDTHH:mm:ssZ"
+>>>>>>> template/main
     },
     {
       name: 'ota-collection-api',
@@ -15,7 +19,12 @@ module.exports = {
       min_uptime: '10s',
       max_restarts: 10,
       restart_delay: 1000,
+<<<<<<< HEAD
       exponential_backoff_restart_delay: true
+=======
+      exponential_backoff_restart_delay: true,
+      log_date_format: "YYYY-MM-DDTHH:mm:ssZ"
+>>>>>>> template/main
     },
     {
       name: 'ota-release',
@@ -24,7 +33,12 @@ module.exports = {
       min_uptime: '10s',
       max_restarts: 10,
       restart_delay: 60 * 60 * 1000,  // likely related to a GitHub availability problem that will take some time to be fixed
+<<<<<<< HEAD
       exponential_backoff_restart_delay: true
+=======
+      exponential_backoff_restart_delay: true,
+      log_date_format: "YYYY-MM-DDTHH:mm:ssZ"
+>>>>>>> template/main
     },
     {
       name: 'ota-federation-api',
@@ -33,7 +47,12 @@ module.exports = {
       min_uptime: '10s',
       max_restarts: 10,
       restart_delay: 1000,
+<<<<<<< HEAD
       exponential_backoff_restart_delay: true
+=======
+      exponential_backoff_restart_delay: true,
+      log_date_format: "YYYY-MM-DDTHH:mm:ssZ"
+>>>>>>> template/main
     }
   ],
 };
