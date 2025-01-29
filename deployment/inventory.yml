@@ -1,13 +1,6 @@
 all:
   hosts:
-<<<<<<< HEAD
-    _ _ _ _ _ ✍️:
-      ansible_user: _ _ _ _ _ ✍️
-      ed25519_fingerprint: _ _ _ _ _ ✍️
-      ota_source_repository: _ _ _ _ _ ✍️
-=======
     162.19.74.224:
       ansible_user: debian
       ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAIJkjE1KIbUcoClK+iKLR5ZvmdXMD/eXWghHdenFeJz4c
       ota_source_repository: https://github.com/OpenTermsArchive/demo-declarations.git
->>>>>>> template/main
