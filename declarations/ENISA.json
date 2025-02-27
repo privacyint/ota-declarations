@@ -2,7 +2,7 @@
   "name": "ENISA",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.enisa.europa.eu/about-enisa/data-protection",
+      "fetch": "https://www.enisa.europa.eu/about-enisa/data-protection/data-protection",
       "select": ".content"
     }
   }
