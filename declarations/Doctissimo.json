@@ -1,4 +1,9 @@
 {
   "name": "Doctissimo",
-  "terms": {}
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.doctissimo.fr/equipe/charte/charte-donnees-personnelles-cookies",
+      "select": "#content-container"
+    }
+  }
 }
