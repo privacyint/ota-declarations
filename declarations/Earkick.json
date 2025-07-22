@@ -1,0 +1,9 @@
+{
+  "name": "Earkick",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://earkick.com/privacy/",
+      "select": ".privacy-policy"
+    }
+  }
+}
