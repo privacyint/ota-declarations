@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.enisa.europa.eu/about-enisa/data-protection/data-protection",
-      "select": ".main .container .data-protection"
+      "select": ".main"
     }
   }
 }
