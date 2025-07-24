@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.youper.ai/policy/privacy-policy",
-      "select": "#hosted"
+      "select": ".main-wrapper"
     }
   }
 }
