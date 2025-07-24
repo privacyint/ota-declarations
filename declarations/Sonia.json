@@ -1,0 +1,9 @@
+{
+  "name": "Sonia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://soniahealth.notion.site/privacy-policy",
+      "select": ".notion-page-content"
+    }
+  }
+}
