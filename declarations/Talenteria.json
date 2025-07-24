@@ -1,0 +1,9 @@
+{
+  "name": "Talenteria PP",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.talenteria.com/privacy-policy",
+      "select": ".col-md-12"
+    }
+  }
+}
