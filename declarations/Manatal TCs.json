@@ -1,0 +1,9 @@
+{
+  "name": "Manatal TCs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.manatal.com/terms-and-conditions",
+      "select": ".faq-section"
+    }
+  }
+}

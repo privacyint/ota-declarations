@@ -1,0 +1,9 @@
+{
+  "name": "Talenteria TCs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.talenteria.com/terms-conditions",
+      "select": ".col-md-12"
+    }
+  }
+}
