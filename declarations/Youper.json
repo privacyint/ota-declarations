@@ -1,9 +1,0 @@
-{
-  "name": "Youper",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.youper.ai/policy/privacy-policy",
-      "select": ".section-rich-text"
-    }
-  }
-}
