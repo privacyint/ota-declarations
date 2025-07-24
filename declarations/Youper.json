@@ -1,0 +1,9 @@
+{
+  "name": "Youper",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "hhttps://www.youper.ai/policy/privacy-policy",
+      "select": "#hosted"
+    }
+  }
+}
