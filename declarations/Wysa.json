@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://legal.wysa.io/privacy-policy",
-      "select": ".splitr right"
+      "select": "#pp"
     }
   }
 }
