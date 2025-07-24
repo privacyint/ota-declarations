@@ -1,0 +1,9 @@
+{
+  "name": "Manatal",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.manatal.com/privacy-policy",
+      "select": ".faq-section"
+    }
+  }
+}
