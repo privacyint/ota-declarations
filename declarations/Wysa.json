@@ -1,0 +1,9 @@
+{
+  "name": "Wysa",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://legal.wysa.io/privacy-policy",
+      "select": "#infoUse"
+    }
+  }
+}
