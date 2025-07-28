@@ -1,5 +1,5 @@
 {
-  "name": "Wysa TCs",
+  "name": "Wysa TCs Global",
   "documents": {
     "Privacy Policy": {
       "fetch": "https://legal.wysa.io/terms",
