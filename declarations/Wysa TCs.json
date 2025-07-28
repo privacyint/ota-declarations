@@ -1,0 +1,9 @@
+{
+  "name": "Wysa TCs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://legal.wysa.io/terms",
+      "select": "#tos"
+    }
+  }
+}
