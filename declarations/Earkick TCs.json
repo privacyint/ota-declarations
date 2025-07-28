@@ -1,0 +1,9 @@
+{
+  "name": "Earkick TCs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://earkick.com/terms/",
+      "select": ".main-content"
+    }
+  }
+}
