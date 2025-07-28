@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://replika.com/legal/cookies",
-      "select": ".LegalPageContent-sc-r55jct-0 iHjnIs doc-content"
+      "select": ".Document__Layout-sc-jo5p3w-0 gUBcNi"
     }
   }
 }
