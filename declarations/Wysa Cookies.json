@@ -1,0 +1,9 @@
+{
+  "name": "Wysa Cookies",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wysa.com/cookie-policy",
+      "select": "#s-content"
+    }
+  }
+}
