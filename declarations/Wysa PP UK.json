@@ -1,0 +1,9 @@
+{
+  "name": "Wysa PP UK",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://legal.wysa.uk/privacy-policy",
+      "select": "#pp"
+    }
+  }
+}
