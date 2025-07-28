@@ -1,0 +1,9 @@
+{
+  "name": "TherapyAI TCs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "select": ".main"
+    }
+  }
+}
