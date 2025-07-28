@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.trytherapy.ai/privacy",
-      "select": "div[data-custom-class=\"body\"]"
+      "select": ".body"
     }
   }
 }
