@@ -1,0 +1,9 @@
+{
+  "name": "Tess TCs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "www.x2ai.com/terms",
+      "select": ".rich-text-block"
+    }
+  }
+}

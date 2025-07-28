@@ -1,0 +1,9 @@
+{
+  "name": "Tess Security",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.x2ai.com/security",
+      "select": ".rich-text-block"
+    }
+  }
+}

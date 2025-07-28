@@ -1,0 +1,9 @@
+{
+  "name": "Tess PP",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.x2ai.com/privacy",
+      "select": ".rich-text-block"
+    }
+  }
+}
