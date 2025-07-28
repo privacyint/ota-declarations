@@ -1,0 +1,9 @@
+{
+  "name": "Replika TCs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://replika.com/legal/terms",
+      "select": "LegalPageContent-sc-r55jct-0 iHjnIs doc-content"
+    }
+  }
+}

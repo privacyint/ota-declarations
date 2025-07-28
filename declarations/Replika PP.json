@@ -1,0 +1,9 @@
+{
+  "name": "Replika PP",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://replika.com/legal/privacy",
+      "select": ".LegalPageContent-sc-r55jct-0 iHjnIs doc-content"
+    }
+  }
+}

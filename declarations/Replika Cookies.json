@@ -1,0 +1,9 @@
+{
+  "name": "Replika Cookies",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://replika.com/legal/cookies",
+      "select": ".LegalPageContent-sc-r55jct-0 iHjnIs doc-content"
+    }
+  }
+}
