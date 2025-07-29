@@ -1,0 +1,9 @@
+{
+  "name": "TherapyAI PP",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.trytherapy.ai/privacy",
+      "select": ".w-embed.w-script"
+    }
+  }
+}
